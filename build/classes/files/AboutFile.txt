@@ -1,0 +1,6 @@
+Program: Tastemaker
+Version: 1.0
+Creators: Julia Rice, Rachel Joy Copreros
+
+ICS3U1=01
+JUNE 1, 2020
